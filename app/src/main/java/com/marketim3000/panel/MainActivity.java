@@ -2,7 +2,7 @@ package com.marketim3000.panel;
 
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.net.http.HttpAuthHandler;
+import android.webkit.HttpAuthHandler;
 import android.os.Bundle;
 import android.text.InputType;
 import android.view.ViewGroup;
