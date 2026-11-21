@@ -55,7 +55,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        webView.loadUrl("https://panel.marketim3000.online/");
+        webView.loadUrl("https://panel.marketim3000.online/v17");
     }
 
     @Override
